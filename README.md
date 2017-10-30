@@ -1,8 +1,7 @@
 # deep-learning
 More details can be found this link.
 [backpropagationを理解しよう](https://qiita.com/okazawaryusuke/private/33d2a454a6ebd1908aee)
-This article is how to study and make an experiment deep learning.
-
+This article is how to study and make an experiment deep learning.(Attension:this article is so long)
 ## neural-net
 [neural-net](https://github.com/ryuwryyy/deep-learning/tree/master/neural-net)
 * xor
